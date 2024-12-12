@@ -1,0 +1,16 @@
+"","intercept","r_squared","terms"
+"1","whitenonHispanicPercent, nonreligiousPercent, medianage, Percentimmigrants, non_college_white",0.659139278833931,5
+"2","whitenonHispanicPercent, nonreligiousPercent, medianage, Percentimmigrants, non_college_white, Populationthatvoted",0.652893993705808,6
+"3","whitenonHispanicPercent, nonreligiousPercent, medianage, Percentimmigrants, non_college_white, Populationthatvoted, Percentcollegedegree",0.649708613462914,7
+"4","nonreligiousPercent, medianage, Percentimmigrants, non_college_white",0.645026027478771,4
+"5","whitenonHispanicPercent, nonreligiousPercent, medianage, non_college_white",0.631262322813252,4
+"6","whitenonHispanicPercent, nonreligiousPercent, medianage, non_college_white, Populationthatvoted",0.627904291813045,5
+"7","whitenonHispanicPercent, nonreligiousPercent, medianage, Percentcollegedegree, non_college_white, Populationthatvoted",0.625359776434842,6
+"8","whitenonHispanicPercent, nonreligiousPercent, medianage, Percentimmigrants",0.591258299812073,4
+"9","whitenonHispanicPercent, nonreligiousPercent, Percentimmigrants, non_college_white",0.487766057748804,4
+"10","whitenonHispanicPercent, nonreligiousPercent, non_college_white, Populationthatvoted",0.455081426050036,4
+"11","whitenonHispanicPercent, nonreligiousPercent, `Voterturnout(VEPHighestOffice)`, non_college_white",0.454956550932321,4
+"12","whitenonHispanicPercent, nonreligiousPercent, `Voterturnout(VEPHighestOffice)`, non_college_white, Populationthatvoted",0.453274142232203,5
+"13","whitenonHispanicPercent, nonreligiousPercent, `Voterturnout(VEPHighestOffice)`",0.416468062106034,3
+"14","whitenonHispanicPercent, nonreligiousPercent",0.383811446777888,2
+"15","whitenonHispanicPercent",0.0834585393378637,1
